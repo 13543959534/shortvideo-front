@@ -1,0 +1,1 @@
+import{d as e,h as o,D as s,E as t,_ as n}from"./index-CHKCOtp7.js";const a={class:"main f-box"},c=e({__name:"index",setup(_){return o(()=>{console.log(111)}),(r,d)=>(s(),t("div",a,"foryou"))}}),p=n(c,[["__scopeId","data-v-0838f887"]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e,D as c,E as s}from"./index-CHKCOtp7.js";const t={},o={class:"main f-box"};function a(n,_){return c(),s("div",o,"mylist")}const d=e(t,[["render",a],["__scopeId","data-v-8ca3db38"]]);export{d as default};
