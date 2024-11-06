@@ -1,0 +1,1 @@
+import{_ as e,$ as o,a0 as c}from"./index-Dln868Ss.js";const s={},t={class:"main f-box"};function r(_,a){return o(),c("div",t,"profile")}const f=e(s,[["render",r],["__scopeId","data-v-f97f9319"],["__file","D:/bobo/project/Metu/short_play/src/pages/profile/index.vue"]]);export{f as default};

@@ -1,0 +1,60 @@
+{
+    "CopiedSuccessfully": "Copied Successfully",
+    "Earn": {
+        "Doublerewards": "Double rewards",
+        "ExchangeSpins": "Exchange Spins",
+        "Only": "Only",
+        "Rank": "Rank",
+        "WithdrawSoon": "Withdraw Soon",
+        "i_for_s": "Invite For Spins",
+        "i_to_s": "Invite To Get More Spins",
+        "t_cash_t": "to cash out"
+    },
+    "Friends": {
+        "collect": "Collect",
+        "f_a_t": "You get 20% of your friend's USDT withdrawals and 20% of your friend's M Coins.",
+        "f_i_b": "Friends Income Bonus",
+        "f_t_p": "Friend with Telegram Premium",
+        "f_u_a_friend": "For you and friend",
+        "get": "Get",
+        "i_f": "Invite friend",
+        "invitee": "Invitee",
+        "of_your_f": "Of Your Friends",
+        "t_rewards": "Total Rewards:",
+        "y_c_c": "You can collect"
+    },
+    "Game": {
+        "MingGames": "Ming Games"
+    },
+    "Live": {
+        "language": "language selection",
+        "live": "Live"
+    },
+    "LiveHome": {
+        "Audiences": "Audiences",
+        "Follow": "Follow",
+        "Send": "Send",
+        "c_back_s": "Come back soon",
+        "choose": "Choose your gender",
+        "next": "Next",
+        "t_allows_c": "This allows us to suggest more relevant categories! Oncethe gender is selected, it cannot be changed.",
+        "t_live_e": "The live broadcasting ended",
+        "t_trial_m": "The trial is over, open the app to watch more",
+        "w_to_l": "Welcome to the Live"
+    },
+    "TabBar": {
+        "earn": "Earn",
+        "friends": "Friends",
+        "game": "Game",
+        "live": "Live",
+        "wallet": "Wallet"
+    },
+    "Wallet": {
+        "e_p": "Edit profile",
+        "m_b": "My Balance",
+        "times": "times",
+        "withdraw": "Withdraw"
+    },
+    "close": "Close",
+    "nomore": "no more"
+}

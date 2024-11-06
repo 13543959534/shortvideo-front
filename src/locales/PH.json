@@ -1,0 +1,60 @@
+{
+    "CopiedSuccessfully": "Matagumpay na nakopya",
+    "Earn": {
+        "Doublerewards": "Dobleng gantimpala",
+        "ExchangeSpins": "Exchange spins",
+        "Only": "Lamang",
+        "Rank": "Ranggo",
+        "WithdrawSoon": "Umatras kaagad",
+        "i_for_s": "Anyayahan para sa mga spins",
+        "i_to_s": "Anyayahan upang makakuha ng higit pang mga spins",
+        "t_cash_t": "upang cash out"
+    },
+    "Friends": {
+        "collect": "Mangolekta",
+        "f_a_t": "Nakakakuha ka ng 20% ​​ng iyong mga kaibigan USDT withdrawal at 20% ng iyong mga kaibigan m barya.",
+        "f_i_b": "Mga kaibigan na kita ng bonus",
+        "f_t_p": "Kaibigan na may Telegram Premium",
+        "f_u_a_friend": "Para sa iyo at kaibigan",
+        "get": "Kumuha",
+        "i_f": "Anyayahan ang kaibigan",
+        "invitee": "Invitee",
+        "of_your_f": "Ng iyong mga kaibigan",
+        "t_rewards": "Kabuuang mga gantimpala:",
+        "y_c_c": "Maaari kang mangolekta"
+    },
+    "Game": {
+        "MingGames": "Ming Games"
+    },
+    "Live": {
+        "language": "pagpili ng wika",
+        "live": "Live"
+    },
+    "LiveHome": {
+        "Audiences": "Mga madla",
+        "Follow": "Sundin",
+        "Send": "Ipadala",
+        "c_back_s": "Bumalik kaagad",
+        "choose": "Piliin ang iyong kasarian",
+        "next": "Susunod",
+        "t_allows_c": "Pinapayagan kaming magmungkahi ng mas may -katuturang mga kategorya!Napili ang Oncethe Gender, hindi ito mababago.",
+        "t_live_e": "Natapos ang live na pag -broadcast",
+        "t_trial_m": "Tapos na ang pagsubok, buksan ang app upang manood ng higit pa",
+        "w_to_l": "Maligayang pagdating sa Live"
+    },
+    "TabBar": {
+        "earn": "Kumita",
+        "friends": "Mga kaibigan",
+        "game": "Laro",
+        "live": "Live",
+        "wallet": "Wallet"
+    },
+    "Wallet": {
+        "e_p": "I -edit ang profile",
+        "m_b": "Ang balanse ko",
+        "times": "mga oras",
+        "withdraw": "Umatras"
+    },
+    "close": "Malapit",
+    "nomore": "Wala na"
+}

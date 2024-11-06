@@ -1,0 +1,1 @@
+System.register(["./index-legacy-B5Rs47jS.js"],(function(e,t){"use strict";var r,s,n;return{setters:[e=>{r=e._,s=e.$,n=e.a0}],execute:function(){const t={class:"main f-box"};e("default",r({},[["render",function(e,r){return s(),n("div",t,"profile")}],["__scopeId","data-v-f97f9319"],["__file","D:/bobo/project/Metu/short_play/src/pages/profile/index.vue"]]))}}}));
